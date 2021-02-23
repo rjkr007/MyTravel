@@ -5,8 +5,11 @@ background-color: rgb(61, 173, 224)
 form{
     width: 50%;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 25%;
     background-color: rgb(207, 235, 241);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
     
 }
 
@@ -27,3 +30,9 @@ img{
 text-emphasis: center;
 }
 
+footer{
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
